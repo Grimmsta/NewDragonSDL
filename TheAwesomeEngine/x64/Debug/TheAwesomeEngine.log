@@ -1,0 +1,80 @@
+﻿  BezierPath.cpp
+  Borders.cpp
+  Bullet.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Vector.h(65,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.h(32,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.h(34,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Bullet.cpp(16,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Bullet.cpp(17,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Bullet.cpp(88,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Bullet.cpp(88,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Bullet.cpp(92,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Bullet.cpp(92,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Vector.h(65,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.h(32,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(8,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(9,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(40,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(40,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(53,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(54,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(67,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(68,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(69,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(83,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(87,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(104,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(108,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Enemy01.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.cpp(121,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Vector.h(65,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Engine.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.h(32,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(55,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(62,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(103,29): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(103,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(103,36): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(103,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(133,20): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(133,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(133,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  GameObject.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Engine.cpp(133,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\GameObject.cpp(4,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\GameObject.cpp(4,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\GameObject.cpp(14,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameWorld.cpp
+  Player.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\GameObject.cpp(14,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.h(34,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\MathHelper.h(101,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\MathHelper.h(102,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(24,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(25,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(50,16): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(55,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(60,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(65,16): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(115,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(119,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(120,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(121,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(127,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(134,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(134,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(135,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(135,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(153,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(153,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(156,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SpecialBullet.cpp
+  main.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.cpp(156,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Player.h(34,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Vector.h(65,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\Enemy.h(32,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\main.cpp(20,12): warning C4101: 'keyEvent': unreferenced local variable
+Debug\BezierPath.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

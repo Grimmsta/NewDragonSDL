@@ -1,0 +1,17 @@
+﻿  UIManager.cpp
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\UI\UIManager.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\UI\UIManager.cpp(106,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\UI\UIManager.cpp(108,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\UI\UIManager.cpp(108,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\UI\UIManager.cpp(111,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\Code\UI\UIManager.cpp(111,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Debug\BezierPath.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Bullet.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Enemy.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Enemy01.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Engine.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\GameObject.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\GameWorld.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Player.obj : warning LNK4042: object specified more than once; extras ignored
+  TheAwesomeEngine.vcxproj -> C:\Users\Grimm.Svenkerud\Desktop\Backup of the backup\TheAwesomeEngine\.\Build\TheAwesomeEngine.exe
